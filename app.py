@@ -16,8 +16,8 @@ st.title("Snowflake Data Export Interface")
 
 # Sample filter values (mocked for POC)
 store_list = ["Mall of The Emirates", "Dubai Mall", "Dubai Festival City Mall"]
-country_list = ["UAE", "UK","USA"]
-city_list = ["New York", "Dubai", "London"]
+country_list = ["UAE","KSA","Egypt","Qartar"]
+city_list = ["Abu Dhabi", "Dubai", "Riyadh","Cairo","Doha"]
 dataset_name = ["sales", "invoices", "traffic", "customers", "stores"]
 date_list = ["2025-03-01", "2025-04-01", "2025-05-01","2025-06-01"]
 
