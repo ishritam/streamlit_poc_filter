@@ -1,0 +1,6 @@
+store,country,city,date,invoice_id,item_id,net_sales
+Store B,UK,London,2024-06-02,INV100,ITEM200,100.0
+Store B,UK,London,2024-06-02,INV101,ITEM201,115.75
+Store B,UK,London,2024-06-02,INV102,ITEM202,131.5
+Store B,UK,London,2024-06-02,INV103,ITEM203,147.25
+Store B,UK,London,2024-06-02,INV104,ITEM204,163.0
